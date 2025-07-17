@@ -1,0 +1,2102 @@
+[
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_000000.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_backward(2.6)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_000000.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "approach_pile(0.70, 0.40)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_001201.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(33)",
+    "caption": "a yellow atv is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_001201.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.30, 0.36)",
+    "caption": "a yellow atv is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_002402.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.76, 0.50)",
+    "caption": "a yellow tractor driving down a road in the woods",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_002402.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.23, 0.48)",
+    "caption": "a yellow tractor driving down a road in the woods",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_003603.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_left(72)",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_003603.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_004804.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(46)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_004804.jpg",
+    "question": "What is the next step?",
+    "answer": "dump_load()",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_006005.jpg",
+    "question": "What is the next step?",
+    "answer": "move_backward(2.8)",
+    "caption": "a large yellow bull is moving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_006005.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_left(84)",
+    "caption": "a large yellow bull is moving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_007206.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.52, 0.66)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_007206.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.67, 0.42)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_008407.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.63, 0.26)",
+    "caption": "a large bull is moving through a pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_008407.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_right(52)",
+    "caption": "a large bull is moving through a pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_009608.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.56, 0.63)",
+    "caption": "a large machine is moving through a pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_009608.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.59, 0.56)",
+    "caption": "a large machine is moving through a pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_010809.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.52, 0.29)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_010809.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.69, 0.67)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_012010.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.24, 0.73)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_012010.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(46)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_013211.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_left(88)",
+    "caption": "a large machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_013211.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(73)",
+    "caption": "a large machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_014412.jpg",
+    "question": "What is the next step?",
+    "answer": "lower_bucket()",
+    "caption": "a large machine is working on a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_014412.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a large machine is working on a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_015613.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a large bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_015613.jpg",
+    "question": "What is the next step?",
+    "answer": "dump_load()",
+    "caption": "a large bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_016814.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.62, 0.68)",
+    "caption": "a large yellow bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_016814.jpg",
+    "question": "What action should be taken?",
+    "answer": "approach_pile(0.28, 0.61)",
+    "caption": "a large yellow bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_018015.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_018015.jpg",
+    "question": "What is the next step?",
+    "answer": "approach_pile(0.50, 0.56)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_019216.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_backward(1.7)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_019216.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_right(15)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_020417.jpg",
+    "question": "What is the next step?",
+    "answer": "move_backward(2.1)",
+    "caption": "a large yellow bull is on the road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_020417.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.68, 0.59)",
+    "caption": "a large yellow bull is on the road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_021618.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a yellow tractor driving down a road next to a forest",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_021618.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lower_bucket()",
+    "caption": "a yellow tractor driving down a road next to a forest",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_022819.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.67, 0.53)",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_022819.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "drive_to_pile(0.76, 0.62)",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_024020.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(71)",
+    "caption": "a truck driving down a road next to a truck",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_024020.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.24, 0.60)",
+    "caption": "a truck driving down a road next to a truck",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_025221.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dig_at_location(0.36, 0.75)",
+    "caption": "a yellow bull is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_025221.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.31, 0.45)",
+    "caption": "a yellow bull is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_026422.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.45, 0.43)",
+    "caption": "a large machine is working on a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_026422.jpg",
+    "question": "What action should be taken?",
+    "answer": "lower_bucket()",
+    "caption": "a large machine is working on a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_027623.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(30)",
+    "caption": "a yellow tractor is parked in the dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_027623.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.42, 0.41)",
+    "caption": "a yellow tractor is parked in the dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_028824.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.44, 0.69)",
+    "caption": "a yellow tractor is parked in the dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_028824.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.58, 0.71)",
+    "caption": "a yellow tractor is parked in the dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_030025.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(76)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_030025.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.58, 0.37)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_031226.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "drive_to_pile(0.38, 0.37)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_031226.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.59, 0.60)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_032427.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_left(86)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_032427.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.80, 0.29)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_033628.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.63, 0.73)",
+    "caption": "a yellow atv is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_033628.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.64, 0.23)",
+    "caption": "a yellow atv is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_034829.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.41, 0.37)",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_034829.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.62, 0.73)",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_036030.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_036030.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a yellow tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_037231.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(44)",
+    "caption": "a large machine is moving through a large pile",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_037231.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(20)",
+    "caption": "a large machine is moving through a large pile",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_038432.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.27, 0.48)",
+    "caption": "a large yellow bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_038432.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dump_load()",
+    "caption": "a large yellow bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_039633.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.38, 0.69)",
+    "caption": "a large yellow bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_039633.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_left(89)",
+    "caption": "a large yellow bull is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_040834.jpg",
+    "question": "What is the next step?",
+    "answer": "dig_at_location(0.25, 0.34)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_040834.jpg",
+    "question": "What action should be taken?",
+    "answer": "move_backward(1.6)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_042035.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(36)",
+    "caption": "a large machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_042035.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.50, 0.65)",
+    "caption": "a large machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_043236.jpg",
+    "question": "What action should be taken?",
+    "answer": "lower_bucket()",
+    "caption": "a large machine is moving through a pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_043236.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(76)",
+    "caption": "a large machine is moving through a pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_044437.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_044437.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dig_at_location(0.33, 0.62)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_045638.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.59, 0.62)",
+    "caption": "a large machine is working on a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_045638.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.60, 0.61)",
+    "caption": "a large machine is working on a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_046839.jpg",
+    "question": "What is the next step?",
+    "answer": "approach_pile(0.52, 0.61)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_046839.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.77, 0.40)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_048040.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.61, 0.72)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_048040.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_right(52)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_049241.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(32)",
+    "caption": "a large machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_049241.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.42, 0.36)",
+    "caption": "a large machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_050442.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "drive_to_pile(0.23, 0.27)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_050442.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_051643.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.55, 0.72)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_051643.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.76, 0.31)",
+    "caption": "a yellow bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_052844.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.71, 0.52)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_052844.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_054045.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(41)",
+    "caption": "a large yellow machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_054045.jpg",
+    "question": "What is the next step?",
+    "answer": "dig_at_location(0.54, 0.27)",
+    "caption": "a large yellow machine is moving through a quarry",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_055246.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lower_bucket()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_055246.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_left(43)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_056447.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.49, 0.50)",
+    "caption": "a large pile of dirt is being loaded",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_056447.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "approach_pile(0.53, 0.47)",
+    "caption": "a large pile of dirt is being loaded",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_057648.jpg",
+    "question": "What action should be taken?",
+    "answer": "move_forward(1.4)",
+    "caption": "a dump truck is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_057648.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(64)",
+    "caption": "a dump truck is driving down a hill",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_058849.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.20, 0.60)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\\frame_058849.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.34, 0.70)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_000000.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(28)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_000000.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.56, 0.80)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_002988.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dig_at_location(0.41, 0.66)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_002988.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.45, 0.49)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_005976.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dig_at_location(0.32, 0.47)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_005976.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.48, 0.57)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_008964.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(84)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_008964.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "move_forward(1.4)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_011952.jpg",
+    "question": "What is the next step?",
+    "answer": "approach_pile(0.29, 0.67)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_011952.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.30, 0.60)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_014940.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "drive_to_pile(0.40, 0.70)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_014940.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "lift_bucket()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_017928.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.42, 0.42)",
+    "caption": "a tractor is driving through a large pile of rubble",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_017928.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_right(63)",
+    "caption": "a tractor is driving through a large pile of rubble",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_020916.jpg",
+    "question": "What action should be taken?",
+    "answer": "move_backward(0.6)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_020916.jpg",
+    "question": "What is the next step?",
+    "answer": "drive_to_pile(0.61, 0.35)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_023904.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(64)",
+    "caption": "a large truck driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_023904.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "dig_at_location(0.50, 0.53)",
+    "caption": "a large truck driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_026892.jpg",
+    "question": "What action should be taken?",
+    "answer": "dig_at_location(0.70, 0.26)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_026892.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_left(53)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_029880.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_left(19)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_029880.jpg",
+    "question": "What action should be taken?",
+    "answer": "move_forward(2.2)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_032868.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a large machine is moving through a pile of rubble",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_032868.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_left(65)",
+    "caption": "a large machine is moving through a pile of rubble",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_035856.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.36, 0.75)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_035856.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.60, 0.30)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_038844.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "dump_load()",
+    "caption": "a tractor is driving down a road in the middle of a forest",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_038844.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.43, 0.47)",
+    "caption": "a tractor is driving down a road in the middle of a forest",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_041832.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.67, 0.55)",
+    "caption": "a large machine is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_041832.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.78, 0.53)",
+    "caption": "a large machine is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_044820.jpg",
+    "question": "What is the next step?",
+    "answer": "approach_pile(0.35, 0.43)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_044820.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "lift_bucket()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_047808.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(41)",
+    "caption": "a large machine is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_047808.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(30)",
+    "caption": "a large machine is driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_050796.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "drive_to_pile(0.53, 0.65)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_050796.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(35)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_053784.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.43, 0.28)",
+    "caption": "a large machine is moving through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_053784.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(80)",
+    "caption": "a large machine is moving through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_056772.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(52)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_056772.jpg",
+    "question": "What action should be taken?",
+    "answer": "approach_pile(0.76, 0.56)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_059760.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.64, 0.34)",
+    "caption": "a yellow atv is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_059760.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.49, 0.67)",
+    "caption": "a yellow atv is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_062748.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_left(49)",
+    "caption": "a tractor is parked on the side of a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_062748.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_left(32)",
+    "caption": "a tractor is parked on the side of a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_065736.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_right(30)",
+    "caption": "a tractor is driving through a muddy road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_065736.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dump_load()",
+    "caption": "a tractor is driving through a muddy road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_068724.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.45, 0.56)",
+    "caption": "a truck driving down a road next to a pile of rubble",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_068724.jpg",
+    "question": "What action should be taken?",
+    "answer": "lift_bucket()",
+    "caption": "a truck driving down a road next to a pile of rubble",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_071712.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_right(87)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_071712.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_074700.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lower_bucket()",
+    "caption": "a large machine is moving through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_074700.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "move_backward(0.6)",
+    "caption": "a large machine is moving through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_077688.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(54)",
+    "caption": "a large dump truck driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_077688.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.39, 0.60)",
+    "caption": "a large dump truck driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_080676.jpg",
+    "question": "What action should be taken?",
+    "answer": "drive_to_pile(0.35, 0.27)",
+    "caption": "a large machine is in the middle of a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_080676.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.38, 0.74)",
+    "caption": "a large machine is in the middle of a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_083664.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.78, 0.20)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_083664.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "lift_bucket()",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_086652.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.31, 0.61)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_086652.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.52, 0.54)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_089640.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.60, 0.34)",
+    "caption": "a tractor is driving down a road with a large pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_089640.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.72, 0.69)",
+    "caption": "a tractor is driving down a road with a large pile of dirt",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_092628.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.33, 0.39)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_092628.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.67, 0.51)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_095616.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.71, 0.21)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_095616.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.60, 0.62)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_098604.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.52, 0.74)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_098604.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "dump_load()",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_101592.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_right(39)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_101592.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.80, 0.26)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_104580.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_left(33)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_104580.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.39, 0.40)",
+    "caption": "a bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_107568.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.60, 0.70)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_107568.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.37, 0.67)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_110556.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_right(33)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_110556.jpg",
+    "question": "What is the next step?",
+    "answer": "drive_to_pile(0.46, 0.68)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_113544.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lower_bucket()",
+    "caption": "a large pile of dirt next to a mountain",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_113544.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_right(77)",
+    "caption": "a large pile of dirt next to a mountain",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_116532.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_right(85)",
+    "caption": "a large dump truck driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_116532.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "approach_pile(0.59, 0.20)",
+    "caption": "a large dump truck driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_119520.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(74)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_119520.jpg",
+    "question": "What is the next step?",
+    "answer": "move_backward(1.7)",
+    "caption": "a large machine is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_122508.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.44, 0.26)",
+    "caption": "a large dump truck driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_122508.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(20)",
+    "caption": "a large dump truck driving down a road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_125496.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.52, 0.58)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_125496.jpg",
+    "question": "What action should be taken?",
+    "answer": "approach_pile(0.59, 0.68)",
+    "caption": "a tractor is driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_128484.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(55)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_128484.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "approach_pile(0.69, 0.25)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_131472.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_backward(1.9)",
+    "caption": "a large machine is moving through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_131472.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.65, 0.30)",
+    "caption": "a large machine is moving through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_134460.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_left(56)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_134460.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.41, 0.72)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_137448.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.75, 0.57)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_137448.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.36, 0.44)",
+    "caption": "a tractor driving down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_140436.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.40, 0.64)",
+    "caption": "a construction site with a large machine in the fore",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_140436.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.35, 0.68)",
+    "caption": "a construction site with a large machine in the fore",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_143424.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_forward(0.8)",
+    "caption": "a construction site with a bull bull and a bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_143424.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.77, 0.29)",
+    "caption": "a construction site with a bull bull and a bull bull",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_146412.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(69)",
+    "caption": "a large yellow bull is on the ground",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\A day at work Caterpillar 972M XE wheel loaders\\frame_146412.jpg",
+    "question": "What is the next step?",
+    "answer": "dump_load()",
+    "caption": "a large yellow bull is on the ground",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_000000.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "approach_pile(0.46, 0.63)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_000000.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.42, 0.61)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_000536.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.62, 0.78)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_000536.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.32, 0.68)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_001072.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "dig_at_location(0.23, 0.74)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_001072.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "drive_to_pile(0.36, 0.62)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_001608.jpg",
+    "question": "What is the next step?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_001608.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.52, 0.44)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_002144.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_left(62)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_002144.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_002680.jpg",
+    "question": "What is the next step?",
+    "answer": "drive_to_pile(0.51, 0.28)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_002680.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.34, 0.66)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_003216.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(59)",
+    "caption": "a man driving a tractor through a dirt covered area",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_003216.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.41, 0.43)",
+    "caption": "a man driving a tractor through a dirt covered area",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_003752.jpg",
+    "question": "What action should be taken?",
+    "answer": "drive_to_pile(0.63, 0.29)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_003752.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.46, 0.44)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_004288.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.80, 0.45)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_004288.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_left(44)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_004824.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_backward(1.0)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_004824.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_005360.jpg",
+    "question": "What is the next step?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_005360.jpg",
+    "question": "What action should be taken?",
+    "answer": "approach_pile(0.45, 0.59)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_005896.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.67, 0.72)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_005896.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_006432.jpg",
+    "question": "What is the next step?",
+    "answer": "approach_pile(0.21, 0.61)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_006432.jpg",
+    "question": "What action should be taken?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_006968.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_forward(0.9)",
+    "caption": "a man driving a tractor through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_006968.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "move_forward(1.4)",
+    "caption": "a man driving a tractor through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_007504.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(75)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_007504.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.52, 0.46)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_008040.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_008040.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.34, 0.63)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_008576.jpg",
+    "question": "What is the next step?",
+    "answer": "approach_pile(0.57, 0.22)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_008576.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_forward(0.7)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_009112.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.51, 0.59)",
+    "caption": "a man driving a tractor through a dirt field",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_009112.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.52, 0.72)",
+    "caption": "a man driving a tractor through a dirt field",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_009648.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_forward(0.7)",
+    "caption": "a man driving a bus through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_009648.jpg",
+    "question": "What is the next step?",
+    "answer": "drive_to_pile(0.52, 0.34)",
+    "caption": "a man driving a bus through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_010184.jpg",
+    "question": "What is the next step?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_010184.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.37, 0.46)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_010720.jpg",
+    "question": "What action should be taken?",
+    "answer": "move_forward(2.4)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_010720.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "move_backward(1.0)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_011256.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.71, 0.29)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_011256.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dump_load()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_011792.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(43)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_011792.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.51, 0.62)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_012328.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "move_forward(2.8)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_012328.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(79)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_012864.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.63, 0.78)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_012864.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.58, 0.49)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_013400.jpg",
+    "question": "What action should be taken?",
+    "answer": "dump_load()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_013400.jpg",
+    "question": "What action should be taken?",
+    "answer": "turn_left(16)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_013936.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "drive_to_pile(0.61, 0.24)",
+    "caption": "a man driving a tractor through a dirt covered road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_013936.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "turn_left(26)",
+    "caption": "a man driving a tractor through a dirt covered road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_014472.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_backward(0.7)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_014472.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.30, 0.38)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_015008.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_right(43)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_015008.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.25, 0.49)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_015544.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dig_at_location(0.47, 0.22)",
+    "caption": "a man driving a tractor through a dirt field",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_015544.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.43, 0.73)",
+    "caption": "a man driving a tractor through a dirt field",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_016080.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "dump_load()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_016080.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_right(78)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_016616.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.31, 0.68)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_016616.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.60, 0.72)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_017152.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.80, 0.43)",
+    "caption": "a man driving a tractor down a street",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_017152.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.57, 0.62)",
+    "caption": "a man driving a tractor down a street",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_017688.jpg",
+    "question": "What is the next step?",
+    "answer": "turn_right(68)",
+    "caption": "a man driving a tractor through a dirt covered area",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_017688.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.49, 0.72)",
+    "caption": "a man driving a tractor through a dirt covered area",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_018224.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(85)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_018224.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(53)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_018760.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "turn_right(42)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_018760.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.29, 0.32)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_019296.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.59, 0.45)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_019296.jpg",
+    "question": "What is the next step?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_019832.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.72, 0.77)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_019832.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_020368.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.29, 0.50)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_020368.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.32, 0.75)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_020904.jpg",
+    "question": "What action should be taken?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_020904.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "approach_pile(0.67, 0.55)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_021440.jpg",
+    "question": "What is the next step?",
+    "answer": "move_forward(1.9)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_021440.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.73, 0.21)",
+    "caption": "a man driving a tractor on a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_021976.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.59, 0.44)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_021976.jpg",
+    "question": "What is the next step?",
+    "answer": "lower_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_022512.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.33, 0.47)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_022512.jpg",
+    "question": "What is the next step?",
+    "answer": "lift_bucket()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_023048.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.53, 0.60)",
+    "caption": "a man driving a tractor through a dirt field",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_023048.jpg",
+    "question": "How should the loader approach the pile?",
+    "answer": "approach_pile(0.32, 0.47)",
+    "caption": "a man driving a tractor through a dirt field",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_023584.jpg",
+    "question": "Where is the nearest pile?",
+    "answer": "drive_to_pile(0.79, 0.43)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_023584.jpg",
+    "question": "What is the next step?",
+    "answer": "dig_at_location(0.39, 0.24)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_024120.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_forward(2.7)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_024120.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(68)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_024656.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "move_forward(2.5)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_024656.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_backward(2.9)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_025192.jpg",
+    "question": "What is the next step?",
+    "answer": "dump_load()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_025192.jpg",
+    "question": "What is the next step?",
+    "answer": "dump_load()",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_025728.jpg",
+    "question": "What direction should the loader turn?",
+    "answer": "turn_right(62)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_025728.jpg",
+    "question": "Where should the loader dig?",
+    "answer": "dig_at_location(0.35, 0.64)",
+    "caption": "a man driving a tractor down a dirt road",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_026264.jpg",
+    "question": "Where should the loader go next?",
+    "answer": "dig_at_location(0.48, 0.69)",
+    "caption": "a man driving a tractor through a construction site",
+    "bbox_data": {}
+  },
+  {
+    "image_path": "data\\frames\\Caterpillar 924G hard at work on a busy day. POV\\frame_026264.jpg",
+    "question": "Where should the bucket be positioned?",
+    "answer": "move_forward(2.9)",
+    "caption": "a man driving a tractor through a construction site",
+    "bbox_data": {}
+  }
+]

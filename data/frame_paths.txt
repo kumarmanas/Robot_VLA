@@ -1,0 +1,150 @@
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_000000.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_001201.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_002402.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_003603.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_004804.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_006005.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_007206.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_008407.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_009608.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_010809.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_012010.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_013211.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_014412.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_015613.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_016814.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_018015.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_019216.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_020417.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_021618.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_022819.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_024020.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_025221.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_026422.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_027623.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_028824.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_030025.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_031226.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_032427.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_033628.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_034829.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_036030.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_037231.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_038432.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_039633.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_040834.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_042035.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_043236.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_044437.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_045638.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_046839.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_048040.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_049241.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_050442.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_051643.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_052844.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_054045.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_055246.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_056447.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_057648.jpg
+data\frames\a day at work Caterpillar 972M XE wheel loaders loads truck and dumpers\frame_058849.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_000000.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_002988.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_005976.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_008964.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_011952.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_014940.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_017928.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_020916.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_023904.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_026892.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_029880.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_032868.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_035856.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_038844.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_041832.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_044820.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_047808.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_050796.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_053784.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_056772.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_059760.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_062748.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_065736.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_068724.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_071712.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_074700.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_077688.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_080676.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_083664.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_086652.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_089640.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_092628.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_095616.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_098604.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_101592.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_104580.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_107568.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_110556.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_113544.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_116532.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_119520.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_122508.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_125496.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_128484.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_131472.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_134460.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_137448.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_140436.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_143424.jpg
+data\frames\A day at work Caterpillar 972M XE wheel loaders\frame_146412.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_000000.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_000536.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_001072.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_001608.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_002144.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_002680.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_003216.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_003752.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_004288.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_004824.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_005360.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_005896.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_006432.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_006968.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_007504.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_008040.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_008576.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_009112.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_009648.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_010184.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_010720.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_011256.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_011792.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_012328.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_012864.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_013400.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_013936.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_014472.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_015008.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_015544.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_016080.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_016616.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_017152.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_017688.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_018224.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_018760.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_019296.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_019832.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_020368.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_020904.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_021440.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_021976.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_022512.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_023048.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_023584.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_024120.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_024656.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_025192.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_025728.jpg
+data\frames\Caterpillar 924G hard at work on a busy day. POV\frame_026264.jpg
