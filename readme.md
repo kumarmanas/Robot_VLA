@@ -1,7 +1,7 @@
 
 #  Vision-Language-Action (VLA) Model
 
-A functional prototype of a Vision-Language-Action (VLA) system designed to control a wheel loader using natural language commands. It combines computer vision, natural language processing, and pragmatic engineering to produce actionable commands for tasks such as locating and digging material piles on construction sites.
+A functional prototype of a Vision-Language-Action (VLA) system designed to control a robot using natural language commands. It combines computer vision, natural language processing, and pragmatic engineering to produce actionable commands for tasks such as locating and digging material piles on construction sites.
 
 ---
 
